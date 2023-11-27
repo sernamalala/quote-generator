@@ -1,0 +1,1 @@
+console.log("Serna Malala JS Template");
